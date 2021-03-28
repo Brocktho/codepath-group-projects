@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# Duolingo For Code
+# CodeLoco
 
 ## Table of Contents
 1. [Overview](#Overview)
